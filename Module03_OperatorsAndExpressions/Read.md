@@ -1,4 +1,4 @@
-# Module 4 — Operators & Expressions
+# Module 3 — Operators & Expressions
 
 This module covers Java operators and expressions used to perform calculations, comparisons, logical operations, assignments, and other programming operations.
 
