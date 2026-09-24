@@ -17,7 +17,6 @@ This module covers taking input from the user, displaying output, and converting
 - Type Conversion
 - Widening Conversion
 - Narrowing Conversion
-- Type Casting
 - Character and ASCII Values
 
 ## Output in Java
@@ -107,7 +106,6 @@ Java `char` is a 16-bit UTF-16 code unit. ASCII is only a subset of the characte
 | `StudentDetails.java`      | Multiple types of input   |
 | `WideningConversion.java`  | Automatic conversion      |
 | `NarrowingConversion.java` | Explicit narrowing        |
-| `TypeCasting.java`         | Type casting              |
 | `CharacterToASCII.java`    | Character to numeric code |
 
 ## Learning Outcome
