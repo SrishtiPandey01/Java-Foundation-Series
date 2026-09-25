@@ -10,6 +10,7 @@ public class DivisibleByFive {
         } else {
             System.out.println(number + " is not divisible by 5.");
         }
+        sc.close();
     }
 }
 

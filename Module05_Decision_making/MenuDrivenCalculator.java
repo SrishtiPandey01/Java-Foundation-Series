@@ -39,7 +39,6 @@ public class MenuDrivenCalculator {
             default:
                 System.out.println("Invalid choice. Please select a valid option.");
         }
-            
-        
+        sc.close();
     }
 }

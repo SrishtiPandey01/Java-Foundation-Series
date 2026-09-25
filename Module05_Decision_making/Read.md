@@ -4,15 +4,15 @@ This module covers decision-making statements in Java. These statements allow a 
 
 ## Concepts Covered
 
-* `if` statement
-* `if-else` statement
-* Nested `if`
-* `else-if` ladder
-* `switch` statement
-* `break` in switch
-* `default` case
-* Menu-driven programs
-* Conditional problem solving
+- `if` statement
+- `if-else` statement
+- Nested `if`
+- `else-if` ladder
+- `switch` statement
+- `break` in switch
+- `default` case
+- Menu-driven programs
+- Conditional problem solving
 
 ## 1. if Statement
 
@@ -97,11 +97,11 @@ switch (expression)
 
 ### Important Points
 
-* `break` exits the switch statement.
-* Without `break`, execution can continue into the following cases.
-* `default` executes when no case matches.
-* `switch` is useful for fixed choices.
-* `if-else` is generally more suitable for ranges and complex conditions.
+- `break` exits the switch statement.
+- Without `break`, execution can continue into the following cases.
+- `default` executes when no case matches.
+- `switch` is useful for fixed choices.
+- `if-else` is generally more suitable for ranges and complex conditions.
 
 ## Programs
 
@@ -112,7 +112,6 @@ switch (expression)
 | `NestedIf.java`             | Nested conditions      |
 | `ElseIfLadder.java`         | Multiple conditions    |
 | `SwitchStatement.java`      | `switch-case`          |
-| `EvenOdd.java`              | Even/odd               |
 | `PositiveNegativeZero.java` | Number classification  |
 | `LargestOfTwo.java`         | Compare two numbers    |
 | `LargestOfThree.java`       | Compare three numbers  |
@@ -130,9 +129,9 @@ switch (expression)
 
 After completing this module, you should be able to:
 
-* Use conditional statements in Java.
-* Write nested conditions.
-* Use an `else-if` ladder for multiple conditions.
-* Use `switch-case` for fixed choices.
-* Build menu-driven programs.
-* Solve common conditional programming problems.
+- Use conditional statements in Java.
+- Write nested conditions.
+- Use an `else-if` ladder for multiple conditions.
+- Use `switch-case` for fixed choices.
+- Build menu-driven programs.
+- Solve common conditional programming problems.

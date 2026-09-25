@@ -18,5 +18,6 @@ public class LargestOfThree {
         } else {
             System.out.println("There is a tie for the largest number.");
         }
+        sc.close();
     }
 }

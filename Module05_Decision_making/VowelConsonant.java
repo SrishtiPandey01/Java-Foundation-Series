@@ -13,5 +13,6 @@ public class VowelConsonant {
         } else {
             System.out.println(ch + " is not an alphabet.");
         }
+        sc.close();
     }
 }

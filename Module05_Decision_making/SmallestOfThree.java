@@ -19,5 +19,6 @@ public class SmallestOfThree {
         } else {
             System.out.println("There is a tie for the smallest number.");
         }
+        sc.close();
     }   
 }

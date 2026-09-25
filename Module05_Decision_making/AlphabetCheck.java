@@ -12,5 +12,6 @@ public class AlphabetCheck {
         } else {
             System.out.println(ch + " is not an alphabet letter.");
         }
+        sc.close();
     }
 }
